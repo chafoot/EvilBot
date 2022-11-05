@@ -5,6 +5,7 @@ wget
 gtts
 beautifulsoup4
 requests==2.20.0
+setuptools==0.7.3
 python-telegram-bot==12.8
 PyDictionary==2.0.1
 sqlalchemy==1.3.20
